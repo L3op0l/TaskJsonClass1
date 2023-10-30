@@ -1,0 +1,22 @@
+{
+    "games": [
+        {
+            "title": "The Legend of Zelda Ocarina of Time",
+            "platform": "Nintendo 64",
+            "genre": "Action-Adventure",
+            "release_year": 1998
+        },
+        {
+            "title": "GTA 5",
+            "platform": "PC, PS4, Xbox One",
+            "genre": "Action-Adventure",
+            "release_year": 2013
+        },
+        {
+            "title": "Rainbow Six Sieges",
+            "platform": "PS5, Xbox One, PC, PS4",
+            "genre": "Action-Adventure",
+            "release_year": 2015
+        }
+    ]
+}
